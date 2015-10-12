@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<jnlp spec="1.0+" codebase="http://localhost:8080/Compositor-dist/" href="Compositor.jnlp">
+	<information>
+		
+		<vendor>Celasco - Lus</vendor>
+		<homepage href="http://localhost:8080/Compositor-dist/index.html" />
+		<description>Testing Testing</description>
+	</information>
+	<resources>
+		<j2se version="1.7+" />
+		<jar href="comp.jar" />
+	</resources>
+	<application-desc main-class="compositor.MainWindow" />
+</jnlp>
